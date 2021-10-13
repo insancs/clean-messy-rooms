@@ -1,10 +1,10 @@
 <h1 align="center"> Clean Vs Messy Rooms Classifier using Tensorflow </h1>
 
 ## Overview
-Pada projek ini yaitu bertugas untuk mengklasifikasi gambar sebuah ruangan apakah rapi atau berantakan. Arsitektur model dibangun dengan menggunakan Convolutional Neural Network (CNN) dari library Tensorflow. 
+In this project, the task is to classify the image of a room as clean or messy. The model architecture is built using the Convolutional Neural Network (CNN) from the Tensorflow library.
 
 ## Dataset
-Dataset pada projek ini diperoleh dari [Kaggle](https://www.kaggle.com/cdawn1/messy-vs-clean-room). Gambar terdiri dari dua kelas, yaitu ruangan rapi dan berantakan. Dataset berjumlah ~200 gambar ruangan. Terdapat 192 gambar dalam training set (96 gambar per kelas); 20 gambar (10 gambar per kelas) dalam validation set; 10 gambar (5 per kelas) di set tes. Lokasi ruangan beragam, termasuk kamar tidur, ruang keluarga, ruang makan, ruang belajar, dan dapur, yang mungkin membantu mencegah model menangkap fitur yang tidak terkait tetapi lebih fokus pada "kekacauan".
+The data set for this project was obtained from [Kaggle](https://www.kaggle.com/cdawn1/messy-vs-clean-room). Pictures consist of two classes, clean and messy rooms. There are 192 images in the training set (96 per class); 20 images (10 per class) in the validation set; 10 images (5 per class) in the test set. The location is diverse, including bedrooms, living rooms, dining rooms, study rooms and kitchens, which might help to discourage the model from capturing unrelated features but instead focus more on the "messiness".
 
 ## Work Steps
 <ol>
@@ -20,7 +20,7 @@ Dataset pada projek ini diperoleh dari [Kaggle](https://www.kaggle.com/cdawn1/me
 
 ## Visualize Accuracy and Loss 
 <p align="center">
-    <img src="images/accuracy_loss.JPG" width="500" height="200">
+    <img src="images/accuracy_loss.JPG" width="500">
 </p>
 
 ## Predict Model
