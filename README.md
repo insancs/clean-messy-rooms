@@ -20,7 +20,7 @@ Dataset pada projek ini diperoleh dari [Kaggle](https://www.kaggle.com/cdawn1/me
 
 ## Visualize Accuracy and Loss 
 <p align="center">
-    <img src="images/accuracy_loss.JPG" width="500">
+    <img src="images/accuracy_loss.JPG" width="500" height="400">
 </p>
 
 ## Predict Model
