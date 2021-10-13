@@ -23,5 +23,5 @@ The data set for this project was obtained from [Kaggle](https://www.kaggle.com/
 
 ## Predict Model
 <p align="left">
-    <img src="images/predict.JPG" width="700">
+    <img src="images/predict.JPG" width="500">
 </p>
