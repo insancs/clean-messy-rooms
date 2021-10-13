@@ -22,8 +22,10 @@ The data set for this project was obtained from [Kaggle](https://www.kaggle.com/
 <p align="center">
     <img src="images/accuracy_loss.JPG" width="500">
 </p>
+![training and loss metrics](images/accuracy_loss.JPG)
 
 ## Predict Model
 <p align="center">
     <img src="images/predict.JPG" width="400">
 </p>
+![predict model](images/predict.JPG)
