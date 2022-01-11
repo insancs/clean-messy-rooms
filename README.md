@@ -1,5 +1,9 @@
 <h1 align="center"> Clean Vs Messy Rooms Classifier using Tensorflow </h1>
 
+<p align="center">
+    <img src="https://i.imgflip.com/5im1am.jpg" width="800">
+</p>
+
 ## Overview
 In this project, the task is to classify the image of a room as clean or messy. The model architecture is built using the Convolutional Neural Network (CNN) from the Tensorflow library.
 
