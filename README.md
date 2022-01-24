@@ -14,10 +14,11 @@ The data set for this project was obtained from [Kaggle](https://www.kaggle.com/
 <ol>
   <li>Import library</li>
   <li>Download and extract file</li>
-  <li>Storing training and validation data sets into variables</li>
+  <li>Separate training and validation set</li>
   <li>Data pre-processing using image augmentation</li>
   <li>Prepare train data</li>
   <li>Building a model architecture with CNN</li>
+  <li>Create Callbacks</li>
   <li>Plotting accuracy and loss</li>
   <li>Predict image</li>
 </ol>  
